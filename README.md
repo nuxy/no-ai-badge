@@ -4,7 +4,7 @@ Differentiate your project from vibe-coded slop with this badge.
 
 ## References
 
-- [badges.ws](https://github.com/vladkens)
+- [badges.ws](https://github.com/vladkens/badges)
 
 ## Versioning
 
