@@ -1,0 +1,7 @@
+[package]
+name = "no-ai-badge"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+badgelib = "0.1.0"
