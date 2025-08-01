@@ -14,7 +14,7 @@ As a developer, by branishing this badge on your project, I acknowledge the foll
 ### [GitHub](https://github.com) hosted image, Markdown example:
 
 ```markdown
-[<img src="https://raw.githubusercontent.com/nuxy/slot-machine-gen/master/badge.svg" />](https://github.com/nuxy/no-ai-badge)
+[![NO AI](https://raw.githubusercontent.com/nuxy/no-ai-badge/master/badge.svg)](https://github.com/nuxy/no-ai-badge)
 ```
 
 ## Developers
