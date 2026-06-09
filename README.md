@@ -11,10 +11,18 @@ As a developer, by branishing this badge on your project, I acknowledge the foll
 
 ## Adding to your project `README.md`
 
-### [GitHub](https://github.com) hosted image, Markdown example:
+### Markdown examples
+
+#### From your own forked repo
 
 ```markdown
-[![NO AI](https://raw.githubusercontent.com/nuxy/no-ai-badge/master/badge.svg)](https://github.com/nuxy/no-ai-badge)
+[![NO AI](https://raw.githubusercontent.com/<username>/no-ai-badge/master/badge.svg)](https://github.com/nuxy/no-ai-badge#no-ai-badge)
+```
+
+#### [GitHub](https://github.com) hosted image
+
+```markdown
+[![NO AI](https://no-ai-badge.nuxy.dev/badge.svg)](https://github.com/nuxy/no-ai-badge#no-ai-badge)
 ```
 
 ## Developers
